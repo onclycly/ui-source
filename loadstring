@@ -1,6 +1,6 @@
 local Release = "Beta 8"
 local NotificationDuration = 6.5
-local RayfieldFolder = "Cly Hub"
+local RayfieldFolder = "Rayfield"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
 local ConfigurationExtension = ".rfld"
 
@@ -20,7 +20,7 @@ local RayfieldLibrary = {
 			NotificationBackground = Color3.fromRGB(91,50,144),
 			NotificationActionsBackground = Color3.fromRGB(109,0,255),
 
-			TabBackground = Color3.fromRGB(80, 80, 80),
+			TabBackground = Background,
 			TabStroke = Color3.fromRGB(85, 85, 85),
 			TabBackgroundSelected = Color3.fromRGB(210, 210, 210),
 			TabTextColor = Color3.fromRGB(240, 240, 240),
