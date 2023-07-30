@@ -1,9 +1,9 @@
 
 --- LIBRARY FOR CLY HUB
 
-local Release = "Beta 8"
-local NotificationDuration = 6.5
-local RayfieldFolder = "Rayfield"
+local Release = "Cly Hub"
+local NotificationDuration = 8.5
+local RayfieldFolder = "Rayfield Cly Hub"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
 local ConfigurationExtension = ".rfld"
 
